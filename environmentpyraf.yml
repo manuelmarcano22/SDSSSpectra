@@ -1,0 +1,12 @@
+name: iraf27
+channels:
+        - http://ssb.stsci.edu/astroconda
+dependencies:
+  - python = 2.7
+  - bokeh >= 0.12.5
+  - pyraf >= 2.1.11
+  - iraf  >= 2.16
+  - notebook 
+  - ipykernel 
+  - pip:
+    - nbdime
