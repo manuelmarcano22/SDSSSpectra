@@ -1,7 +1,4 @@
 *.fits
-login.cl*
-*/uparm
-*pyraf/
 .ipynb_checkpoints
 .ipynb_checkpoints/
 */.ipynb_checkpoints/*

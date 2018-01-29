@@ -1,0 +1,9 @@
+
+# Jan 28 15:36 irafspec-0266-51602-0051.fits - Ap 1: 
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  8592.334  3.133347  0.391597    -0.125 0.0350891     10.48        0.
+# Jan 28 15:36 irafspec-0266-51630-0057.fits - Ap 1: 
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  8600.019  2.701101 -0.143245   0.05303 -0.040107     3.355        0.

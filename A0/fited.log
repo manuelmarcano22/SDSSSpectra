@@ -1,0 +1,16 @@
+
+# Jan 28 18:20 irafspec-0266-51630-0233 - Ap 1: 
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  8542.958  78.93404  -89.1438     1.129  -8.05142      10.4        0.
+ (7.86816) (6.47555) (295.918) (  2.969) (30.1179) (  13.27) (     0.)
+# Jan 28 18:20 irafspec-0266-51630-0233 - Ap 1: 
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  8596.235  78.18865  -98.6536     1.262  -6.18642     14.98        0.
+ (29.6143) (27.5581) (3549.28) (  20.69) (59.0666) (  36.49) (     0.)
+# Jan 28 18:20 irafspec-0266-51630-0233 - Ap 1: 
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  6562.407  128.5142  -230.322     1.792  -26.2015     8.258        0.
+ (2.87939) (10.4716) (288.292) (  1.942) (29.7431) (  7.051) (     0.)
