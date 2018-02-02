@@ -1,0 +1,12 @@
+A2Ia (14489),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/3691/spec-3691-55274-0508.fits
+A2Ia (14489),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/3834/spec-3834-55569-0940.fits
+A2Ia (14489),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/4041/spec-4041-55361-0622.fits
+A2Ia (14489),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/5189/spec-5189-56074-0850.fits
+A2Ia (14489),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/5199/spec-5199-56067-0857.fits
+A2Ia (14489),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/6291/spec-6291-56209-0918.fits
+A2Ia (14489),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/6312/spec-6312-56487-0648.fits
+A2Ia (14489),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/6595/spec-6595-56569-0156.fits
+A2Ia (14489),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/6803/spec-6803-56402-0278.fits
+A2Ia (14489),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/6828/spec-6828-56430-0026.fits
+A2Ia (14489),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/7425/spec-7425-56777-0668.fits
+A2Ia (14489),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/8840/spec-8840-57425-0838.fits

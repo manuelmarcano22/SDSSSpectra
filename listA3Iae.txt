@@ -1,0 +1,5 @@
+A3Iae (223385),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/3688/spec-3688-55273-0190.fits
+A3Iae (223385),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/4782/spec-4782-55654-0420.fits
+A3Iae (223385),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/5448/spec-5448-56013-0922.fits
+A3Iae (223385),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/6482/spec-6482-56358-0150.fits
+A3Iae (223385),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/8388/spec-8388-57488-0818.fits

@@ -1,2 +1,0 @@
-CV,https://dr14.sdss.org/sas/dr14/sdss/spectro/redux/26/spectra/0266/spec-0266-51602-0051.fits
-CV,https://dr14.sdss.org/sas/dr14/sdss/spectro/redux/26/spectra/0266/spec-0266-51630-0057.fits

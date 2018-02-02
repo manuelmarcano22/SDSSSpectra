@@ -1,16 +1,41 @@
 
-# Jan 28 18:20 irafspec-0266-51630-0233 - Ap 1: 
+# Feb  2 14:01 irafspec-0266-51630-0140 - Ap 1: 
 # Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
 #   center      cont      flux       eqw      core     gfwhm     lfwhm
-  8542.958  78.93404  -89.1438     1.129  -8.05142      10.4        0.
- (7.86816) (6.47555) (295.918) (  2.969) (30.1179) (  13.27) (     0.)
-# Jan 28 18:20 irafspec-0266-51630-0233 - Ap 1: 
+  8756.742  22.93829  -58.1713     2.536  -4.07289     13.42        0.
+ (12.8564) (3.87419) (208.988) (  6.762) ( 14.828) (  13.39) (     0.)
+# Feb  2 14:01 irafspec-0266-51630-0140 - Ap 1: 
 # Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
 #   center      cont      flux       eqw      core     gfwhm     lfwhm
-  8596.235  78.18865  -98.6536     1.262  -6.18642     14.98        0.
- (29.6143) (27.5581) (3549.28) (  20.69) (59.0666) (  36.49) (     0.)
-# Jan 28 18:20 irafspec-0266-51630-0233 - Ap 1: 
+   8506.82  23.72577  -18.8562    0.7948  -1.89271     9.359        0.
+ (42.5889) (2.84231) (217.441) (  7.691) ( 19.568) (  26.31) (     0.)
+# Feb  2 14:01 irafspec-0266-51630-0140 - Ap 1: 
 # Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
 #   center      cont      flux       eqw      core     gfwhm     lfwhm
-  6562.407  128.5142  -230.322     1.792  -26.2015     8.258        0.
- (2.87939) (10.4716) (288.292) (  1.942) (29.7431) (  7.051) (     0.)
+  9021.274  20.91498  -80.1434     3.832  -5.31167     14.17        0.
+ (8.39063) (3.76662) (182.805) (  5.926) (14.4911) (  14.13) (     0.)
+# Feb  2 14:01 irafspec-0266-51630-0140 - Ap 1: 
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  8669.937  23.05209  -37.2542     1.616  -4.69681     7.451        0.
+ (7.62012) ( 3.4158) (136.305) (  4.602) (21.8926) (  10.56) (     0.)
+# Feb  2 14:01 irafspec-0266-51630-0140 - Ap 1: 
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  8550.337  23.51293  -37.2116     1.583  -3.85517     9.068        0.
+ (17.9297) (3.73056) (190.309) (  5.729) (21.3586) (  8.409) (     0.)
+# Feb  2 14:01 irafspec-0266-51630-0140 - Ap 1: 
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  8604.127  23.85764  -56.7574     2.379  -3.34332     15.95        0.
+ ( 18.374) (3.76918) (242.092) (  8.782) (18.6644) (  26.64) (     0.)
+# Feb  2 14:01 irafspec-0266-51630-0140 - Ap 1: 
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  6567.792  39.36082  -88.1179     2.239  -11.8339     6.995        0.
+ (5.36133) (5.68349) (142.129) (  3.021) (19.5421) (  7.077) (     0.)
+# Feb  2 14:01 irafspec-0266-51630-0140 - Ap 1: 
+# Nfit=1, background=yes, positions=all, gfwhm=all, lfwhm=all
+#   center      cont      flux       eqw      core     gfwhm     lfwhm
+  8869.182  20.61064   -29.145     1.414  -3.30615     8.282        0.
+ (23.4209) (2.63868) (89.1113) (  3.858) (15.3253) (   8.11) (     0.)

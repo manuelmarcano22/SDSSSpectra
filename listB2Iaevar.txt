@@ -1,0 +1,7 @@
+B2Iaevar (41117),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/3586/spec-3586-55181-0681.fits
+B2Iaevar (41117),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/3675/spec-3675-55183-0919.fits
+B2Iaevar (41117),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/3766/spec-3766-55213-0793.fits
+B2Iaevar (41117),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/3788/spec-3788-55246-0883.fits
+B2Iaevar (41117),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/5695/spec-5695-55978-0459.fits
+B2Iaevar (41117),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/7260/spec-7260-56679-0965.fits
+B2Iaevar (41117),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/7869/spec-7869-57012-0031.fits

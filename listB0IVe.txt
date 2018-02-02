@@ -1,0 +1,8 @@
+B0IVe (5394),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/4382/spec-4382-55742-0701.fits
+B0IVe (5394),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/4803/spec-4803-55734-0695.fits
+B0IVe (5394),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/4804/spec-4804-55679-0755.fits
+B0IVe (5394),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/4889/spec-4889-55709-0572.fits
+B0IVe (5394),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/4890/spec-4890-55741-0952.fits
+B0IVe (5394),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/7057/spec-7057-56593-0496.fits
+B0IVe (5394),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/7339/spec-7339-56780-0434.fits
+B0IVe (5394),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/7408/spec-7408-56780-0440.fits

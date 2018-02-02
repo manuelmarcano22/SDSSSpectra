@@ -1,0 +1,2 @@
+B0.5Iae (185859),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/3590/spec-3590-55201-0767.fits
+B0.5Iae (185859),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/7130/spec-7130-56568-0545.fits

@@ -1,0 +1,12 @@
+B2Ve (164284),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/4485/spec-4485-55836-0581.fits
+B2Ve (164284),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/5048/spec-5048-56218-0504.fits
+B2Ve (164284),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/5800/spec-5800-56279-0834.fits
+B2Ve (164284),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/6482/spec-6482-56358-0630.fits
+B2Ve (164284),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/6599/spec-6599-56567-0223.fits
+B2Ve (164284),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/6827/spec-6827-56428-0812.fits
+B2Ve (164284),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/7289/spec-7289-57039-0860.fits
+B2Ve (164284),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/7290/spec-7290-57073-0524.fits
+B2Ve (164284),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/7414/spec-7414-56748-0040.fits
+B2Ve (164284),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/7596/spec-7596-56945-0075.fits
+B2Ve (164284),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/8388/spec-8388-57488-0733.fits
+B2Ve (164284),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/8865/spec-8865-57426-0202.fits

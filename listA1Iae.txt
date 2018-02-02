@@ -1,0 +1,3 @@
+A1Iae (12953),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/4014/spec-4014-55630-0751.fits
+A1Iae (12953),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/4017/spec-4017-55329-0198.fits
+A1Iae (12953),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/4284/spec-4284-55863-0667.fits
