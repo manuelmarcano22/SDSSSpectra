@@ -1,0 +1,4 @@
+B6IIIpe (109387),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/4661/spec-4661-55614-0992.fits
+B6IIIpe (109387),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/6265/spec-6265-56248-0916.fits
+B6IIIpe (109387),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/6267/spec-6267-56279-0541.fits
+B6IIIpe (109387),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/6299/spec-6299-56478-0582.fits

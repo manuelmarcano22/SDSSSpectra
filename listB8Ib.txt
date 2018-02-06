@@ -1,0 +1,6 @@
+B8Ib (208501),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/4026/spec-4026-55325-0418.fits
+B8Ib (208501),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/4652/spec-4652-55672-0550.fits
+B8Ib (208501),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/5345/spec-5345-56010-0230.fits
+B8Ib (208501),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/6290/spec-6290-56238-0438.fits
+B8Ib (208501),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/7827/spec-7827-57278-0036.fits
+B8Ib (208501),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/7869/spec-7869-57012-0030.fits

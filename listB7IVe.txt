@@ -1,0 +1,5 @@
+B7IVe (209409),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/3969/spec-3969-55307-0911.fits
+B7IVe (209409),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/5972/spec-5972-56334-0560.fits
+B7IVe (209409),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/6700/spec-6700-56384-0516.fits
+B7IVe (209409),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/7427/spec-7427-56751-0026.fits
+B7IVe (209409),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/8167/spec-8167-57071-0972.fits
