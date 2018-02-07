@@ -1,0 +1,13 @@
+K3Ib... (17506),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/5121/spec-5121-55856-0018.fits
+K3Ib... (17506),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/5318/spec-5318-55983-0481.fits
+K3Ib... (17506),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/5361/spec-5361-55973-0457.fits
+K3Ib... (17506),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/5953/spec-5953-56092-0491.fits
+K3Ib... (17506),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/6174/spec-6174-56243-0449.fits
+K3Ib... (17506),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/6410/spec-6410-56336-0145.fits
+K3Ib... (17506),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/6874/spec-6874-56550-0485.fits
+K3Ib... (17506),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/7167/spec-7167-56604-0243.fits
+K3Ib... (17506),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/7262/spec-7262-56659-0730.fits
+K3Ib... (17506),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/7262/spec-7262-56683-0198.fits
+K3Ib... (17506),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/7310/spec-7310-56693-0479.fits
+K3Ib... (17506),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/7853/spec-7853-56988-0209.fits
+K3Ib... (17506),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/8292/spec-8292-57373-0764.fits

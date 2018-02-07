@@ -1,0 +1,1 @@
+G5,https://dr14.sdss.org/sas/dr14/segue1/spectro/redux/26/spectra/2187/spec-2187-54270-0202.fits

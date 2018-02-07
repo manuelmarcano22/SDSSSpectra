@@ -1,0 +1,14 @@
+L3,https://dr14.sdss.org/sas/dr14/sdss/spectro/redux/26/spectra/0275/spec-0275-51910-0575.fits
+L3,https://dr14.sdss.org/sas/dr14/sdss/spectro/redux/26/spectra/0394/spec-0394-51913-0143.fits
+L3,https://dr14.sdss.org/sas/dr14/sdss/spectro/redux/26/spectra/0419/spec-0419-51879-0238.fits
+L3,https://dr14.sdss.org/sas/dr14/sdss/spectro/redux/26/spectra/0428/spec-0428-51883-0444.fits
+L3,https://dr14.sdss.org/sas/dr14/sdss/spectro/redux/26/spectra/0439/spec-0439-51877-0638.fits
+L3,https://dr14.sdss.org/sas/dr14/sdss/spectro/redux/26/spectra/0531/spec-0531-52028-0626.fits
+L3,https://dr14.sdss.org/sas/dr14/sdss/spectro/redux/26/spectra/0624/spec-0624-52377-0238.fits
+L3,https://dr14.sdss.org/sas/dr14/sdss/spectro/redux/26/spectra/1359/spec-1359-53002-0126.fits
+L3,https://dr14.sdss.org/sas/dr14/sdss/spectro/redux/26/spectra/1929/spec-1929-53349-0484.fits
+L3,https://dr14.sdss.org/sas/dr14/sdss/spectro/redux/26/spectra/1981/spec-1981-53463-0240.fits
+L3,https://dr14.sdss.org/sas/dr14/sdss/spectro/redux/26/spectra/2240/spec-2240-53823-0140.fits
+L3,https://dr14.sdss.org/sas/dr14/sdss/spectro/redux/26/spectra/2275/spec-2275-53709-0063.fits
+L3,https://dr14.sdss.org/sas/dr14/sdss/spectro/redux/26/spectra/2363/spec-2363-53763-0006.fits
+L3,https://dr14.sdss.org/sas/dr14/sdss/spectro/redux/26/spectra/2961/spec-2961-54550-0496.fits

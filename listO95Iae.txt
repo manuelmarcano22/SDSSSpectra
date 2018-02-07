@@ -1,0 +1,5 @@
+O9.5Iae (30614),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/4280/spec-4280-55503-0937.fits
+O9.5Iae (30614),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/5371/spec-5371-55976-0512.fits
+O9.5Iae (30614),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/7339/spec-7339-56808-0528.fits
+O9.5Iae (30614),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/7339/spec-7339-56813-0528.fits
+O9.5Iae (30614),https://dr14.sdss.org/sas/dr14/eboss/spectro/redux/v5_10_0/spectra/8172/spec-8172-57423-0640.fits
